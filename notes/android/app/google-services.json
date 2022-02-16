@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080427746675",
+    "project_id": "notes-cfca2",
+    "storage_bucket": "notes-cfca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080427746675:android:9f8280769b7b0c8048a106",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080427746675-m2nrb4f8bj6lvfma69sprj9e38th90ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-La_acEDtGx3nGOW8ZazAgIjtSJjRBro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080427746675-m2nrb4f8bj6lvfma69sprj9e38th90ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
